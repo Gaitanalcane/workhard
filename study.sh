@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "this is me"
-echo "trust the process"
+echo "trust the process from git"
